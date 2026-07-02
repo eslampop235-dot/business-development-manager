@@ -4,9 +4,16 @@ FN:Neveen Elshaarawy
 N:Elshaarawy;Neveen;;;
 ORG:ONYX Global Logistics
 TITLE:Business Development Manager
-TEL;TYPE=CELL:+201096725454
-EMAIL:Neveen.Elshaarawy@Onyx-gl.com
+
+TEL;TYPE=CELL,VOICE:+201096725454
+TEL;TYPE=WORK,CELL,VOICE:+966507216677
+
+EMAIL;TYPE=WORK:Neveen.Elshaarawy@Onyx-gl.com
+
 URL:https://www.onyxgloballogistics.com
-ADR:;;Fifth Settlement, Fifth District, New Cairo;Cairo;;;Egypt
-NOTE:Jeddah, Saudi Arabia
+
+ADR;TYPE=WORK:;;Fifth Settlement, Fifth District, New Cairo;Cairo;;;Egypt
+
+NOTE:Saudi Office - Jeddah, Saudi Arabia
+
 END:VCARD
