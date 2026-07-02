@@ -4,7 +4,7 @@ function shareCard() {
 
         navigator.share({
             title: 'Neveen Elshaarawy',
-            text: 'CEO - ONYX Global Logistics',
+            text: 'Business Development Manager - ONYX Global Logistics',
             url: window.location.href
         });
 
